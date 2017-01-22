@@ -31,8 +31,8 @@ public  abstract class BaseActivity extends Activity {
         Toast.makeText(this, notice, Toast.LENGTH_SHORT).show();
     }
 
-    public void showLongToast(String notice){
-        Toast.makeText(this, notice, Toast.LENGTH_LONG).show();
+    public void showLongToast(String noticetest){
+        Toast.makeText(this, noticetest, Toast.LENGTH_LONG).show();
     }
 
     public void showToastTime(String noticetes,int showTime){
