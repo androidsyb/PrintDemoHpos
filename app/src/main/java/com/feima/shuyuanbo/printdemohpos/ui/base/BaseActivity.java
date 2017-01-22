@@ -42,6 +42,8 @@ public  abstract class BaseActivity extends Activity {
     public void addtestFunction(){
         System.out.println("这是测试方法");
         System.out.println("第二行");
+        System.out.println("hello");
+
     }
 
     protected void openActivity(Context context,Class clazz){
