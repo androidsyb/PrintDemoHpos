@@ -40,6 +40,7 @@ public  abstract class BaseActivity extends Activity {
     }
 
     public void addtestFunction(){
+        System.out.println("hello");
 
     }
 
