@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--融合支付color-->
+    <color name="little_gray">#F2F2F2</color>
+    <color name="black">#000</color>
+    <color name="little_black">#666</color>
+    <color name="little_green">#5EAF36</color>
+    <color name="red">#f00</color>
+    <color name="little_red">#CC0000</color>
+    <color name="small_gray">#999</color>
+
+
+    <!--相机用颜色-->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+</resources>

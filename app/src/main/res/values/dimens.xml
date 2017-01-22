@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!--融合支付 dimen-->
+
+    <dimen name="activity_coupon_item_height">30dp</dimen>
+    <dimen name="activity_coupon_item_margin">10dp</dimen>
+    <dimen name="activty_title_height">48dp</dimen>
+    <dimen name="common_icon_width">36dp</dimen>
+    <dimen name="common_icon_height">36dp</dimen>
+
+    <!--字体大小-->
+    <dimen name="one_text_size">13sp</dimen>
+    <dimen name="two_text_size">15sp</dimen>
+    <dimen name="three_text_size">17sp</dimen>
+    <dimen name="four_text_size">19sp</dimen>
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="big_text_size">25sp</dimen>
+</resources>
