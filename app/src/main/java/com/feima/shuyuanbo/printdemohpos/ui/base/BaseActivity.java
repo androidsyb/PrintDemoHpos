@@ -35,6 +35,10 @@ public  abstract class BaseActivity extends Activity {
         Toast.makeText(this, notice, Toast.LENGTH_LONG).show();
     }
 
+    public void showToastTime(String notice,int showTime){
+        Toast.makeText(this,notice,showTime).show();
+    }
+
     protected void openActivity(Context context,Class clazz){
         Intent intent = new Intent(context,clazz);
         startActivity(intent);
